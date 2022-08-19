@@ -1,6 +1,6 @@
 # PRELUCRĂRI STATISTICE - PROIECT PROGRAMAREA APLICAȚIILOR WINDOWS
 
-În cadrul disciplinei Programarea aplicațiilor Windows am realizat individual un proiect ce constă într-o aplicație de tip desktop, respectând anumite cerințe obligatorii. Conține formulare de adăugare, editare, ștergere și vizualizare, putând adăuga firme și indicatori statistici precum cifra de afaceri, numărul de angajați, profit). Se pot genera documente imprimabile convertite în format PDF cu datele specifice firmelor, dar și grafice pe baza productivității muncii (cifra afaceri/angajat). Datele sunt salvate într-o baza de date relațională, mai exact ***SQLServer***.
+În cadrul disciplinei Programarea aplicațiilor Windows am realizat individual un proiect ce constă într-o aplicație de tip desktop, respectând anumite cerințe obligatorii. Conține formulare de adăugare, editare, ștergere și vizualizare, putând adăuga firme, dar și indicatori statistici, precum cifra de afaceri, numărul de angajați, profitul). Se pot genera documente imprimabile convertite în format PDF cu datele specifice firmelor, dar și grafice pe baza productivității muncii (cifra afaceri/angajat). Datele sunt salvate într-o bază de date relațională, mai exact ***SQLServer***.
 
 
 *TEHNOLOGIILE UTILIZATE:* <br />
