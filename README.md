@@ -1,13 +1,13 @@
 # PRELUCRĂRI STATISTICE - PROIECT PROGRAMAREA APLICAȚIILOR WINDOWS
 
-În cadrul disciplinei Programarea aplicațiilor Windows am realizat individual un proiect ce constă într-o aplicație de tip desktop, respectând anumite cerințe obligatorii. Conține formulare de adăugare, editare, ștergere și vizualizare, putând adăuga firme, dar și indicatori statistici, precum cifra de afaceri, numărul de angajați, profitul). Se pot genera documente imprimabile convertite în format PDF cu datele specifice firmelor, dar și grafice pe baza productivității muncii (cifra afaceri/angajat). Datele sunt salvate într-o bază de date relațională, mai exact ***SQLServer***.
+În cadrul disciplinei **Programarea aplicațiilor Windows** am realizat individual un proiect ce constă într-o **aplicație de tip desktop**, respectând anumite cerințe obligatorii. Conține formulare de adăugare, editare, ștergere și vizualizare, putând adăuga firme, dar și indicatori statistici, precum cifra de afaceri, numărul de angajați, profitul). Se pot genera documente imprimabile convertite în format PDF cu datele specifice firmelor, dar și grafice pe baza productivității muncii (cifra afaceri/angajat). Datele sunt salvate într-o bază de date relațională, mai exact ***SQLServer***.
 
 
 *TEHNOLOGIILE UTILIZATE:* <br />
-֍ Limbajul de programare – C# <br />
-֍ Mediul de dezvoltare – Visual Studio <br />
+֍ Limbajul de programare – **C#** <br />
+֍ Mediul de dezvoltare – **Visual Studio** <br />
 
-*CERINȚE:* <br />
+*CERINȚELE PROIECTULUI:* <br />
 ֍ Definirea claselor necesare aplicației <br />
 ֍ Macheta pentru introducerea / actualizarea și ștergerea datelor (cel puțin pentru trei clase) <br />
 ֍ Validarea datelor (ErrorProvider control, Validating/Validated events, standard exceptions, custom exceptions) <br />
